@@ -1,0 +1,24 @@
+1. Total enrolment by academic level (Pre-Primary, Primary, Upper Primary, Secondary, Higher Secondary).
+2. Top 10 states with the highest enrolment in Secondary level.
+3. Trend of total enrolment from Class 1 to Class 12.
+4. State-wise drop in enrolment from pre-primary to primary.
+5. State-wise drop in enrolment from Class 1 to Class 5.
+6. State-wise drop in enrolment from Class 6 to Class 8.
+7. State-wise drop in enrolment from Class 8 to Class 10.
+8. State-wise drop in enrolment from Class 10 to Class 12.
+9. What is the total number of students enrolled in Class 12 (school dataset) vs. First Year  
+   UG (UG_PG dataset), and what is the percentage drop?
+10. Which State/UT has the highest dropout rate from Class 12 to UG?
+11. Which State/UT has the lowest dropout rate from Class 12 to UG?
+12. What is the total number of students in the final year of UG vs. first year of PG (per   
+    state) and the dropout percentage?
+13. Which states have the highest dropout rate from UG to PG?
+14. Which states have the lowest dropout rate from UG to PG?
+15. Which stream has the highest dropout rate from UG to PG?
+16. Which stream has the lowest dropout rate from UG to PG?
+17. How does the overall UG→PG transition rate vary across years?
+18. Gender-wise enrolment at Undergraduate (UG) level across states.
+19. Gender-wise enrolment at Postgraduate (PG) level across states.
+20. Number of Ph.D. enrolments (Male vs Female) per state.
+21. Top 5 states with highest UG enrolment.
+22. Top 5 states with highest PG enrolment.
