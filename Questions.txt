@@ -1,24 +1,26 @@
-1. Total enrolment by academic level (Pre-Primary, Primary, Upper Primary, Secondary, Higher Secondary).
-2. Top 10 states with the highest enrolment in Secondary level.
-3. Trend of total enrolment from Class 1 to Class 12.
-4. State-wise drop in enrolment from pre-primary to primary.
+1. Total enrolment by academic level (Pre-Primary, Primary, Upper Primary, Secondary, Higher
+Secondary).
+2. Top 10 states most focused on Pre-Primary education.
+3. Top 10 states with the highest enrolment in Secondary level.
+4. States where students enrolment in Upper Primary is huge.
 5. State-wise drop in enrolment from Class 1 to Class 5.
 6. State-wise drop in enrolment from Class 6 to Class 8.
-7. State-wise drop in enrolment from Class 8 to Class 10.
-8. State-wise drop in enrolment from Class 10 to Class 12.
-9. What is the total number of students enrolled in Class 12 (school dataset) vs. First Year  
-   UG (UG_PG dataset), and what is the percentage drop?
-10. Which State/UT has the highest dropout rate from Class 12 to UG?
-11. Which State/UT has the lowest dropout rate from Class 12 to UG?
-12. What is the total number of students in the final year of UG vs. first year of PG (per   
-    state) and the dropout percentage?
-13. Which states have the highest dropout rate from UG to PG?
-14. Which states have the lowest dropout rate from UG to PG?
-15. Which stream has the highest dropout rate from UG to PG?
-16. Which stream has the lowest dropout rate from UG to PG?
-17. How does the overall UG→PG transition rate vary across years?
-18. Gender-wise enrolment at Undergraduate (UG) level across states.
-19. Gender-wise enrolment at Postgraduate (PG) level across states.
-20. Number of Ph.D. enrolments (Male vs Female) per state.
-21. Top 5 states with highest UG enrolment.
-22. Top 5 states with highest PG enrolment.
+7. State-wise drop in enrolment from Class 9 to Class 10.
+8. State-wise Girls' vs Boys' dropout in secondary level.
+9. Dropout Rate from Upper Primary to Secondary Level.
+10. Dropout from Secondary to Higher Secondary level.
+11. Total number of students enrolled in Higher Secondary Vs. First Year UG Enrollment.
+12. Male Vs Female Candidate enrollment in UG Course.
+13. Female Student dropout from UG to PG.
+14. Male Student dropout from UG to PG.
+15. Top 10 States with Highest Ph.D. Enrolment.
+16. Male vs Female Ratio at Each Academic Level.
+17. State-wise % Share of Female Enrolment in Higher Education.
+18. Transition Rate from UG to PG.
+19. Transition Rate from PG to Ph.D.
+20. Top 10 States with the Largest Gender Gap in Under Graduation Level.
+21. Top 10 States with the Largest Gender Gap in Post Graduation Level
+22. Top 10 States with the Largest Gender Gap in Ph.D.
+23. Distribution of Students in Specialized Courses (Diploma, Certificate,
+Integrated).
+24. States Where Female Enrolment Exceeds Male Enrolment.
