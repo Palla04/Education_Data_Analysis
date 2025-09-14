@@ -14,8 +14,11 @@ The analysis focuses on **dropout patterns, gender gaps, and state-level variati
 - **GitHub** – Version control, project documentation, portfolio showcase.  
 
 ### 📂 Dataset Sources  
-- **UDISE+ (School Education Data):** [UDISE+ Portal](https://www.data.gov.in/catalog/unified-district-information-system-education-plus-udise-plus)  
-- **AISHE (Higher Education Data):** [AISHE Report](https://he.nic.in/aishereport/#/report/2021-22)  
+- **UDISE+ (School Education Data)**  
+  [Unified District Information System for Education Plus (UDISE+)](https://www.data.gov.in/catalog/unified-district-information-system-education-plus-udise-plus)  
+- **AISHE (Higher Education Data)**  
+  [All India Survey on Higher Education (AISHE)](https://aishe.gov.in/aishe-final-report/)  
+
 
 ### Key Insights  
 - **Kerala, Tamil Nadu, Maharashtra** → Highest progression rates (75–80%).  
