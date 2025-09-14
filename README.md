@@ -27,16 +27,16 @@ The analysis focuses on **dropout patterns, gender gaps, and state-level variati
 - `Datasets/` → UDISE & AISHE data used  
 - `Documentation/` → Project report & methodology  
 
-### Internship Details
-  **Internship Under:** [Classroom Tech](https://classroomtech.in)  
-  **Duration:** 1st August 2025 – 30th September 2025  
-  **Domain:** Power BI & GitHub
 ### Resources  
 - 📂 GitHub Repo: [Education Data Analysis](https://github.com/Palla04/Education_Data_Analysis)  
 - 📘 Power BI Docs: [Learn Power BI](https://learn.microsoft.com/en-us/power-bi/)  
 
----
+### Internship Details
+  **Internship Under:** [Classroom Tech](https://classroomtech.in)  
+  **Duration:** 1st August 2025 – 30th September 2025  
+  **Domain:** Power BI & GitHub
 
- **Author**: *Pallabi Biswas*  
+### Author
+ **Name :** *Pallabi Biswas*  
  Sister Nivedita University, 7th Semester (CSE)  
  [pallabibiswas4002@gmail.com](mailto:pallabibiswas4002@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/pallabi-biswas26151a255/)  
